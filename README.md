@@ -1,26 +1,5 @@
-Data Analytics Portfolio
-Welcome to my data analytics portfolio! This repository showcases various data analysis projects I have completed as part of my journey toward becoming a proficient data analyst. Each project demonstrates my ability to query data, clean and transform datasets, and generate insights using SQL, Python, and visualization tools.
 
-Tools and Technologies
-SQL: Querying and transforming raw data.
-Excel: Summarizing and analyzing results.
-Python: Data cleaning and further analysis (future enhancements planned).
-Power BI: Visualization of findings (not included in this repository).
-Key Skills Demonstrated
-Data querying and aggregation with SQL.
-Data cleaning and preparation for analysis.
-Deriving actionable insights from raw data.
-Presentation of results in a clear, concise format.
-Repository Structure
-SQL Files: Located in the root directory and named descriptively.
-Results Files: Corresponding .csv files containing query outputs.
-Cleaned Dataset: Processed files ready for analysis.
-Future Work
-Enhance visual storytelling with Power BI dashboards.
-Expand analyses to include Python scripts for advanced statistical techniques.
-# Data Analytics Portfolio
-
-Welcome to my data analytics portfolio! This repository showcases various data analysis projects I have completed as part of my journey toward becoming a proficient data analyst. Each project demonstrates my ability to query data, clean and transform datasets, and generate insights using SQL, Python, and visualization tools.
+# Heart Disease Analysis
 
 ## Tools and Technologies
 - **SQL**: Querying and transforming raw data.

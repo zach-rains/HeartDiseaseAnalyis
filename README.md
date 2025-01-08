@@ -22,10 +22,11 @@
 - Enhance visual storytelling with Power BI dashboards.
 - Expand analyses to include Python scripts for advanced statistical techniques.
 
-## About Me
-I am an experienced data analyst transitioning from a background in Olympic weightlifting and CrossFit coaching. I have completed the Google Data Analytics and Maven Analytics certificates, with expertise in SQL, Excel, and data visualization tools.
+### **Heart Disease Dataset Cleaning**
+- **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
+- **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability.
 
-## Projects
+## Project
 
 ### 1. **Cholesterol Levels by Age and Gender**
 - **SQL Query**: [`Cholesterol by Age:Gender.sql`](./Cholesterol%20by%20Age%3AGender.sql)
@@ -57,6 +58,3 @@ I am an experienced data analyst transitioning from a background in Olympic weig
 - **Visualization**: ![Visualization](./Cholesterol_Statistics.png)
 - **Description**: This project computes key statistical metrics for cholesterol levels, such as averages, medians, and standard deviations, providing a deeper understanding of the dataset's distribution.
 
-### 6. **Heart Disease Dataset Cleaning**
-- **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
-- **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability.

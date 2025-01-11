@@ -16,10 +16,6 @@
 - **Results Files**: Corresponding `.csv` files containing query outputs.
 - **Cleaned Dataset**: Processed file ready for analysis.
 
-## Future Work
-- Enhance visual storytelling with Power BI dashboards.
-- Expand analyses to include Python scripts for advanced statistical techniques.
-
 ### **Heart Disease Dataset Cleaning**
 - **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
 - **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability. 
@@ -47,3 +43,7 @@
 - **Results**: [`Comorbidities_Correlation_Results.csv`](./Comorbidities_Correlation_Results.csv)
 - **Visualization**: ![Vizualization](./Comorbidities_Correlation.png)
 - - **Description**: This project investigates correlations between various comorbidities (e.g., hypertension, diabetes, and cholesterol) and their collective impact on health outcomes. It provides insights into how these conditions coexist and influence each other, helping to identify critical areas for public health intervention.
+
+
+## Final Thoughts and Recommendations
+- After finishing the SQL work and diving into the results, a couple things become clear. The factors with the largest positive correlation to heart disease are BMI, Stress Level and Sugar Consumption. This makes sense and is in line with current public health recommendations and reinforces an accurate analysis. However, a couple things are potentially counter-intuitive. The most interesting of which is the very weak link between increased physical activity levels and heart disease. The results are indicating either a lack of strong linear relationships or data quality/sampling issues

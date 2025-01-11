@@ -16,6 +16,12 @@
 - **Results Files**: Corresponding `.csv` files containing query outputs.
 - **Cleaned Dataset**: Processed file ready for analysis.
 
+## Analysis Reasoning
+- It's widely accepted that heart disease is one of the largest threats to the U.S. healthcare system.
+- This analysis looks at the most popular comorbidities and analyzes their correlations with heart disease.
+- My focus was exercise and cholesterol levels in relation to heart disease, but all factors in the dataset are addressed.
+
+
 ## Project
 
 ### 1. **Heart Disease Dataset Cleaning**

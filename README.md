@@ -16,10 +16,6 @@
 - **Results Files**: Corresponding `.csv` files containing query outputs.
 - **Cleaned Dataset**: Processed file ready for analysis.
 
-### **Heart Disease Dataset Cleaning**
-- **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
-- **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability. 
-
 ## Project
 
 ### 1. **Heart Disease Dataset Cleaning**

@@ -3,9 +3,7 @@
 
 ## Tools and Technologies
 - **SQL**: Querying and transforming raw data.
-- **Excel**: Summarizing and analyzing results.
-- **Python**: Data cleaning and further analysis (future enhancements planned).
-- **Power BI**: Visualization of findings (not included in this repository).
+- **Excel**: Summarizing and visualizing results.
 
 ## Key Skills Demonstrated
 - Data querying and aggregation with SQL.
@@ -16,7 +14,7 @@
 ## Repository Structure
 - **SQL Files**: Located in the root directory and named descriptively.
 - **Results Files**: Corresponding `.csv` files containing query outputs.
-- **Cleaned Dataset**: Processed files ready for analysis.
+- **Cleaned Dataset**: Processed file ready for analysis.
 
 ## Future Work
 - Enhance visual storytelling with Power BI dashboards.
@@ -24,7 +22,7 @@
 
 ### **Heart Disease Dataset Cleaning**
 - **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
-- **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability.
+- **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability. 
 
 ## Project
 

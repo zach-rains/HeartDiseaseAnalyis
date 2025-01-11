@@ -28,6 +28,7 @@
 - **Cleaned Dataset**: [`heart_disease_cleaned.csv`](./heart_disease_cleaned.csv)
 - **Description**: This dataset has been cleaned and prepared for further analysis, ensuring consistency, accuracy, and usability.
 - **Source: https://www.kaggle.com/datasets/oktayrdeki/heart-disease
+- **Process: Data was cleaned through deletion of duplicates, removal of cells with null or absent data, and removal of impactful outliers.
 
 ### 2. **Cholesterol Levels by Age and Gender**
 - **SQL Query**: [`Cholesterol by Age:Gender.sql`](./Cholesterol%20by%20Age%3AGender.sql)
@@ -46,6 +47,8 @@
 - **Results**: [`Comorbidities_Correlation_Results.csv`](./Comorbidities_Correlation_Results.csv)
 - **Visualization**: ![Vizualization](./Comorbidities_Correlation.png)
 - - **Description**: This project investigates correlations between various comorbidities (e.g., hypertension, diabetes, and cholesterol) and their collective impact on health outcomes. It provides insights into how these conditions coexist and influence each other, helping to identify critical areas for public health intervention.
+ 
+
 
 
 ## Final Thoughts and Recommendations

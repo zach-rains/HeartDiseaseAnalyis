@@ -63,5 +63,5 @@
 ### 7. **Comorbidities Correlation Analysis**
 - **SQL Query**: [`Comorbidities_Correlation.sql`](./Comorbidities_Correlation.sql)
 - **Results**: [`Comorbidities_Correlation_Results.csv`](./Comorbidities_Correlation_Results.csv)
-- **Visualization**: ![Visualization](./Cholesterol_Statistics.png)
+- **Visualization**: ![Vizualization](./Comorbidities_Correlation.png)
 - - **Description**: This project investigates correlations between various comorbidities (e.g., hypertension, diabetes, and cholesterol) and their collective impact on health outcomes. It provides insights into how these conditions coexist and influence each other, helping to identify critical areas for public health intervention.

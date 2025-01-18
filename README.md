@@ -27,7 +27,7 @@
 ### 3. Outlier Detection
 - Identified potential outliers using z-scores; no significant issues were found.
 
-### 7. Final Export
+### 4. Final Export
 - Saved the cleaned dataset as `heart_disease_cleaned.csv`.
 
 ## Analysis Reasoning

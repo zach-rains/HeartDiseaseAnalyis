@@ -16,6 +16,20 @@
 - **Results Files**: Corresponding `.csv` files containing query outputs.
 - **Cleaned Dataset**: Processed file ready for analysis.
 
+## Data Cleaning Steps
+
+### 1. Column Standardization
+- Renamed columns to `snake_case` for consistency.
+
+### 2. Duplicate Removal
+- Removed duplicate rows to ensure data integrity.
+
+### 3. Outlier Detection
+- Identified potential outliers using z-scores; no significant issues were found.
+
+### 7. Final Export
+- Saved the cleaned dataset as `heart_disease_cleaned.csv`.
+
 ## Analysis Reasoning
 - It's widely accepted that heart disease is one of the largest threats to the U.S. healthcare system.
 - This analysis looks at the most popular comorbidities and analyzes their correlations with heart disease.
